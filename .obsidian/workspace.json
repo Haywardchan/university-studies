@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f77e077f5f9c90c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3. external libraries/Pasted image 20230223215258.png"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/comp3711/Heap Sort.md",
+                "file": "3. external libraries/Pasted image 20230223215258.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,24 +204,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "25967173f1985b87",
+  "active": "ec97328a9ea314d8",
   "lastOpenFiles": [
-    "Pasted image 20230315001839.png",
-    "Pasted image 20230315001157.png",
-    "Pasted image 20230315000945.png",
-    "Pasted image 20230315000842.png",
-    "2.2 year 2/comp3711/Randomized selection.md",
+    "5. Internship",
+    "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp3711/Heap Sort.md",
-    "Pasted image 20230314234431.png",
-    "Pasted image 20230314234358.png",
-    "Pasted image 20230314233933.png",
-    "Pasted image 20230314233018.png",
+    "3. external libraries/Pasted image 20230315001839.png",
+    "3. external libraries/Pasted image 20230315001157.png",
+    "3. external libraries/Pasted image 20230315000945.png",
+    "3. external libraries/Pasted image 20230315000842.png",
+    "2.2 year 2/comp3711/Randomized selection.md",
+    "3. external libraries/Pasted image 20230314234431.png",
+    "3. external libraries/Pasted image 20230314234358.png",
+    "3. external libraries/Pasted image 20230314233933.png",
+    "3. external libraries/Pasted image 20230314233018.png",
     "2.2 year 2/comp3711/Quick Sort.md",
     "2.2 year 2/comp3711/Merge Sort.md",
-    "Algorithmic engineering.md",
-    "Pasted image 20230314231251.png",
-    "Pasted image 20230314230857.png",
-    "Pasted image 20230314224738.png",
+    "2.2 year 2/comp3711/Algorithmic engineering.md",
+    "3. external libraries/Pasted image 20230314231251.png",
+    "3. external libraries/Pasted image 20230314230857.png",
     "4. Extra knowledge/github/Git Basics.md",
     "2.2 year 2/comp2211/lab2.md",
     "2.2 year 2/Untitled.md",
