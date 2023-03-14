@@ -18,3 +18,16 @@ Space O(1)
 
 Best case: select the median element as the pivot running at O(nlogn)
 Worst case: select the smallest/ largest element as the pivot running at O(n**2)
+
+>Running time independent of input
+
+randomized pivot selection
+
+##### Randomized Algorithms
+- Worst case almost never happens: 
+	 Every pivot would have to be minimum or maximum; occurs with very low probability
+- Expected running time of any input of size n
+![[Pasted image 20230314224738.png|400]]
+
+Elements zi and zj are compared at most once in Qsort iff in the binary tree:
+they are in child-ancester relationship
