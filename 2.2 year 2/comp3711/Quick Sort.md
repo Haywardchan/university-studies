@@ -51,3 +51,4 @@ upper triangular matrix
 - Θ(nlogn) time in expectation on any input – Actually, it’s Θ(nlogn) time with very high probability 
 - Small hidden constants and Cache-efficient 
 - Even though it has a Θ($n^2$) worst-case running time it beats the Θ(nlogn) worst case Mergesort “on average’
+[[Algorithmic engineering]]
