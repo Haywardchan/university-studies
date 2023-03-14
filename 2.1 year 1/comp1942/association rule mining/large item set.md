@@ -1,0 +1,1 @@
+itemset with support larger than a threshold(a.k.a. frequent itemset )

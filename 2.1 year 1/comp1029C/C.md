@@ -1,0 +1,13 @@
+[[C basics]]
+[[C variables]]
+[[C Text Input and Output]]
+[[C making decisions]]
+[[C for loops]]
+[[C while loops]]
+[[C functions]]
+[[C variables scope]]
+[[C arrays]]
+[[C random number generation]]
+[[C Strings]]
+[[C structure]]
+

@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "aee00545df92d8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8200a62ba0f3ea3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.2 year 2/Lang2030/group project.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdbc6ef33b15b569",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13177eccc958809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf9d49bb9b41206",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "enum",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec97328a9ea314d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "77f7f4bafcc35410",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f35f534c5a20be",
+        "type": "tabs",
+        "dimension": 46.12244897959184,
+        "children": [
+          {
+            "id": "ef83c879f17212b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c05ddc14a8e9d20a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fa0e9aa83daef49",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "365c18a284c4ae14",
+        "type": "tabs",
+        "dimension": 53.87755102040816,
+        "children": [
+          {
+            "id": "09a95a05fc1eff45",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b454e6b8edc68bcb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1. main/board.md"
+              }
+            }
+          },
+          {
+            "id": "bf8f574a0af0597f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.2 year 2/Lang2030/group project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "active": "8200a62ba0f3ea3c",
+  "lastOpenFiles": [
+    "1. main/study path planning.md",
+    "2.2 year 2/Lang2030/group project.md",
+    "2.2 year 2/comp2012H/C++ Data types.md",
+    "2.2 year 2/Lang2030/lecture 3.md",
+    "2.2 year 2/Lang2030/lecture 2.md",
+    "1. main/task manager.md",
+    "2.2 year 2/comp2711/Ch1 Propositional Logic.md",
+    "2.2 year 2/comp2711/Ch2 Predicate Logic.md",
+    "2.2 year 2/Lang2030/lecture 5.md",
+    "2.2 year 2/comp2012H/C++ type checking and type conversion.md"
+  ]
+}

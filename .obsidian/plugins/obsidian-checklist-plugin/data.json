@@ -1,0 +1,18 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "2022-04-29.md",
+    "2022-04-20.md",
+    "2022-04-22.md"
+  ],
+  "_hiddenTags": []
+}

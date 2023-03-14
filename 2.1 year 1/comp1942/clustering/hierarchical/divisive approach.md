@@ -1,0 +1,2 @@
+[[polythetic approach]]
+[[monothetic approach]]

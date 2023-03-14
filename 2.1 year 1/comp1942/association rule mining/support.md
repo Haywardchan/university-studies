@@ -1,0 +1,1 @@
+number of transactions containing both [[antecedent and consequent]].

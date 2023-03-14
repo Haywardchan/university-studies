@@ -1,0 +1,2 @@
+$\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!}(x-a)^n=f(a)+f'(a)(x-a)+\frac{f''(a)}{2!}(x-a)^2+...+\frac{f^{(n)}(a)}{n!}(x-a)^n$
+express the function in the term of above by differentiating first few terms, sub a as the centre of convergence

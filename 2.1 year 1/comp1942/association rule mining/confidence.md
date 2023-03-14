@@ -1,0 +1,1 @@
+$$confidence=\frac{supp(\{B,C\}\to E)}{supp(\{B,C\})} or\frac{total\space transaction}{antecedent}$$
