@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. external libraries/Pasted image 20230223215258.png",
+                "file": "2.2 year 2/comp3711/Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +203,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec97328a9ea314d8",
+  "active": "ae775c12d97efbf3",
   "lastOpenFiles": [
+    "2.2 year 2/comp3711/Randomized selection.md",
+    "2.2 year 2/comp3711/Quick Sort.md",
     "5. Internship",
     "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp3711/Heap Sort.md",
@@ -213,12 +214,10 @@
     "3. external libraries/Pasted image 20230315001157.png",
     "3. external libraries/Pasted image 20230315000945.png",
     "3. external libraries/Pasted image 20230315000842.png",
-    "2.2 year 2/comp3711/Randomized selection.md",
     "3. external libraries/Pasted image 20230314234431.png",
     "3. external libraries/Pasted image 20230314234358.png",
     "3. external libraries/Pasted image 20230314233933.png",
     "3. external libraries/Pasted image 20230314233018.png",
-    "2.2 year 2/comp3711/Quick Sort.md",
     "2.2 year 2/comp3711/Merge Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
     "3. external libraries/Pasted image 20230314231251.png",
