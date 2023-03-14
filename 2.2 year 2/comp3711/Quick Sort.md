@@ -52,3 +52,5 @@ upper triangular matrix
 - Small hidden constants and Cache-efficient 
 - Even though it has a Θ($n^2$) worst-case running time it beats the Θ(nlogn) worst case Mergesort “on average’
 [[Algorithmic engineering]]
+
+This leads to another idea of: [[Randomized selection]]
