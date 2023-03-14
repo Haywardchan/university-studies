@@ -36,4 +36,21 @@ Array representation
 we use the general strategy bubble up:
 1. Add the new element to the next available position at the lowest level
 2. if the parent of the element is larger than the element, then interchange the parent with child. 
+> j>1 cuz root cannot be further bubble up
 ![[Pasted image 20230315001157.png|300]]
+
+### Extraction
+we use the general strategy to bubble down:
+1. Copy the last element X to the root (i.e., overwrite the minimum element stored there)
+2. Restore the min-heap property by percolating (or bubbling down): if the element is larger than either of its children, then interchange it with the *smaller* of its children
+Correctness: after each swap, the min-heap property is satisfied for all nodes except the node containing X (with respect to its children)
+![[Pasted image 20230315001839.png|400]]
+
+### Overall Analysis
+- Build a binary heap of & elements 
+1. the minimum element is at the top of the heap 
+2. insert n elements one by one ⇒ O(nlogn) (A more clever approach can do this in O(n) time.)
+- Perform & Extract-Min operations 
+- the elements are extracted in sorted order 
+- each Extract-Min operation takes O(logn) time ⇒ O(nlogn)
+O(nlogn)
