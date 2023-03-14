@@ -31,3 +31,23 @@ randomized pivot selection
 
 Elements zi and zj are compared at most once in Qsort iff in the binary tree:
 they are in child-ancester relationship
+
+#### Running time analysis
+$X_{ij}=1$ if $z_i$ is compared with $z_j$
+Number of comparison: X= $\sum_{i<j}X_{ij}$
+By linearity of expectation: $E[Number\space of\space Comparison]= \sum_{i<j}E[X_{ij}]$
+thus $P[compared]=\frac{2}{j-i+1}$
+$E[Number\space of\space Comparison]=\sum_{i<j}\frac{2}{j-i+1}=O(nlogn)$
+
+method 2:
+$P[compared]=P[Either\space z_i\space or\space z_j\space are\space first\space pivot\space chosen\space in\space Z]$
+$=\frac{1+1}{j-i+1}$
+
+method 3:
+upper triangular matrix
+![[Pasted image 20230314230857.png|400]]
+
+##### Why does quicksort work very well in practice?
+- Θ(nlogn) time in expectation on any input – Actually, it’s Θ(nlogn) time with very high probability 
+- Small hidden constants and Cache-efficient 
+- Even though it has a Θ($n^2$) worst-case running time it beats the Θ(nlogn) worst case Mergesort “on average’
