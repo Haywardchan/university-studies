@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "77f7f4bafcc35410",
@@ -203,7 +204,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae775c12d97efbf3",
+  "active": "ec97328a9ea314d8",
   "lastOpenFiles": [
     "2.2 year 2/comp3711/Randomized selection.md",
     "2.2 year 2/comp3711/Quick Sort.md",
