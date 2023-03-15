@@ -54,18 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f77e077f5f9c90c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "3. external libraries/Pasted image 20230223215258.png"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +195,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec97328a9ea314d8",
+  "active": "d49c4f6ac59b87f6",
   "lastOpenFiles": [
     "2.2 year 2/comp3711/Randomized selection.md",
     "2.2 year 2/comp3711/Quick Sort.md",
