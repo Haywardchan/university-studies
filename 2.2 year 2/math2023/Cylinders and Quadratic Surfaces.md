@@ -1,0 +1,1 @@
+Ellipsoid![[Pasted image 20230317190507.png]]
