@@ -12,3 +12,5 @@ $$Elliptic\space cone:\frac{x^2}{a^2}+\frac{y^2}{b^2}=\frac{z^2}{c^2}$$
 ![[Pasted image 20230317191438.png|130]]
 $$Hyperbolic\space paraboloid:\frac{x^2}{a^2}-\frac{y^2}{b^2}=z$$
 ![[Pasted image 20230317191558.png|300]]
+
+[[Vector in 3d space and dot product]]

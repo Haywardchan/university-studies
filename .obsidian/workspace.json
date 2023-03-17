@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 year 2/math2023/Cylinders and Quadratic Surfaces.md",
+                "file": "2.2 year 2/math2023/Vector in 3d space and dot product.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/math2023/Cylinders and Quadratic Surfaces.md",
+                "file": "2.2 year 2/math2023/Vector in 3d space and dot product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,18 +192,20 @@
   },
   "active": "287841d65b813949",
   "lastOpenFiles": [
-    "Pasted image 20230317191558.png",
-    "Pasted image 20230317191438.png",
-    "Pasted image 20230317191357.png",
-    "Pasted image 20230317191345.png",
-    "Pasted image 20230317191324.png",
-    "Pasted image 20230317191237.png",
-    "Pasted image 20230317191113.png",
-    "Pasted image 20230317190631.png",
-    "Pasted image 20230317190507.png",
-    "2.1 year 1/math2111/resources.md",
+    "3. external libraries/Pasted image 20230317193351.png",
     "2.2 year 2/math2023/Cylinders and Quadratic Surfaces.md",
     "2.2 year 2/math2023/Typical question types.md",
+    "2.2 year 2/math2023/Vector in 3d space and dot product.md",
+    "3. external libraries/Pasted image 20230317193330.png",
+    "3. external libraries/Pasted image 20230317191558.png",
+    "3. external libraries/Pasted image 20230317191438.png",
+    "3. external libraries/Pasted image 20230317191357.png",
+    "3. external libraries/Pasted image 20230317191345.png",
+    "3. external libraries/Pasted image 20230317191324.png",
+    "3. external libraries/Pasted image 20230317191237.png",
+    "3. external libraries/Pasted image 20230317191113.png",
+    "3. external libraries/Pasted image 20230317190631.png",
+    "2.1 year 1/math2111/resources.md",
     "2.2 year 2/comp3711/Randomized selection.md",
     "2.2 year 2/comp3711/Quick Sort.md",
     "2.2 year 2/comp3711/Heap Sort.md",
@@ -211,8 +213,6 @@
     "2.2 year 2/comp3711/Linear Sort.md",
     "5. Internship",
     "2.2 year 2/comp3711/Master theorem.md",
-    "3. external libraries/Pasted image 20230315001839.png",
-    "3. external libraries/Pasted image 20230315001157.png",
     "2.2 year 2/comp3711/Merge Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
     "4. Extra knowledge/github/Git Basics.md",
