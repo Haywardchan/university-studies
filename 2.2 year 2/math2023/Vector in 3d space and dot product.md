@@ -21,3 +21,4 @@ Find the acute angle (0 ≤ $\theta$ ≤ $\pi/2$ ) between the curves $y = x^2$ 
 ![[Pasted image 20230317211652.png|650]]
 
 [[Planes and lines in 3d space]]
+![[Pasted image 20230318205237.png]]
