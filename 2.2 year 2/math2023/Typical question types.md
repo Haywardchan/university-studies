@@ -48,3 +48,4 @@ which can be written in component form as:
 -6x - 6(-3) + 4y + 4(-7) - 4z - 4(-4) = 0
 Expanding and simplifying, we get:
 -6x + 4y - 4z = 60.
+### find distance between 2 skewed lines
