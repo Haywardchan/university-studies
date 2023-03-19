@@ -67,3 +67,16 @@ $$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
 4. sub back into original line eqt to find the corresponding coordinates
 
 ### find tangent vector from a specific point given vector function
+1. differentiate the vector function
+2. find the corresponding t, I,e the last coordinate of the given point
+3. sub it to the corresponding differentiated function
+4. the eqt is the p+ s * r'(t)
+### parametrize the eqt with respect to arc length
+1. find the arc length function s(t) : $|\vec r'(t)|$ and integrate it from 0 to t
+2. sub back to the corresponding function
+### computate the limit of multivariable function
+1. convert the cartesian coordinates into polar coordinates
+2. become the limit of r tending to 0
+or
+1. use squeeze theorem to find the limit
+(may use the AM-GM equality, or the dividing the terms, or set it to absolute value for hte lower bound to be 0)
