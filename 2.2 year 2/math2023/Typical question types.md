@@ -95,3 +95,7 @@ x=ky^2
 
 ### find partial derivative from discontinuous points
 1. set the limit of the derivative according to the definition of partial derivative
+$$\lim_{h\to0}\frac{f(h,0)-f(0,0)}{h}$$
+2. find the corresponding limits
+
+### find the different second ordered partial derivative and explain why the mixed partial theorem does not apply
