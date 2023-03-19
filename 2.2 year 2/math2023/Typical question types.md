@@ -80,3 +80,18 @@ $$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
 or
 1. use squeeze theorem to find the limit
 (may use the AM-GM equality, or the dividing the terms, or set it to absolute value for hte lower bound to be 0)
+
+### How to show a multivariable function is undefined
+1. approach the limit along different directions
+I.e 
+x/y=k where k is a constant
+y=kx
+x=ky^2
+2. If found undefined functions/ different value along different directions then it would be undefined
+
+### How to prove whether an equation is continuous
+1. set the limit of the function and find the limit 
+2. if limit is equal to the subbed value of the function then it is continuous
+
+### find partial derivative from discontinuous points
+1. set the limit of the derivative according to the definition of partial derivative
