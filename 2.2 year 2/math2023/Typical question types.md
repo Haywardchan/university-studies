@@ -112,3 +112,8 @@ the different value is caused by the discontinuity at certain point of the funct
 3. found x an dy value and sub back into the function
 
 ### find the equation of the tangent plane
+1. $\nabla f(sub) \cdot \Delta f$ =0
+### How to find the differentiability of the function at (a,b)
+Using the definition:
+$$\lim_{(x,y)\to (a,b)}\frac{|f(x,y)-f(a,b)-D_uf|}{||\Delta f||}$$
+
