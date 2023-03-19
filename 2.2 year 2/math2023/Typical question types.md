@@ -59,3 +59,9 @@ $$\frac{\vec {P_1P_2}\cdot \vec n}{|\vec n|}$$
 1. we first compute $\vec {P_1P_2}$
 2. directly find the scalar of projection of $\vec {P_1P_2}$ on $\vec m$
 $$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
+
+### find the closest points between 2 skewed lines
+1. find $\vec {P_1P_2}$ by parametric form in terms of s and t
+2. $\vec {P_1P_2}\cdot \vec m_1=0$ and $\vec {P_1P_2}\cdot \vec m_2=0$
+3. 2 eqt 2 unknown to find s and t
+4. sub back into original line eqt to find the corresponding coordinates
