@@ -99,3 +99,16 @@ $$\lim_{h\to0}\frac{f(h,0)-f(0,0)}{h}$$
 2. find the corresponding limits
 
 ### find the different second ordered partial derivative and explain why the mixed partial theorem does not apply
+1. sub the value to the differentiated equations
+2. set the limit according to the definition of derivatives
+$$\lim_{h\to0}\frac{f_y(h,0)-f_y(0,0)}{h}$$
+3. compute the limit using the substituted result and found different value
+the different value is caused by the discontinuity at certain point of the function
+
+
+### find the point on the tangent plane is parallel to the xy plane
+1. compute the x and y partials and find the gradient vector
+2. set the gradient vector equals to the normal vector <0,0,1>
+3. found x an dy value and sub back into the function
+
+### find the equation of the tangent plane
