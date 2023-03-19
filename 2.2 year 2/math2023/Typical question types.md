@@ -13,7 +13,7 @@ If three points are collinear, the distances between pairs of points will satisf
 *Reminder: any vector dot itself is positive
 
 ### given dot product and cross product result, find tan theta/ theta
-$$tan(θ) =\frac{ ||v x w|| }{ (v . w)}$$
+$$tan(θ) =\frac{ ||v \times w|| }{ (v . w)}$$
 ### find parallel vector to intersection of 2 planes
 ### given 3 coordinates find the equation of planes
 
@@ -65,3 +65,5 @@ $$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
 2. $\vec {P_1P_2}\cdot \vec m_1=0$ and $\vec {P_1P_2}\cdot \vec m_2=0$
 3. 2 eqt 2 unknown to find s and t
 4. sub back into original line eqt to find the corresponding coordinates
+
+### find tangent vector from a specific point given vector function
