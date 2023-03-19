@@ -49,3 +49,13 @@ which can be written in component form as:
 Expanding and simplifying, we get:
 -6x + 4y - 4z = 60.
 ### find distance between 2 skewed lines
+1. find the normal vector between 2 slope vectors ($m_1 \times m_2$) compute cross prod
+2. the normal vector is actually parallel to the planes that contains $P_1, P_2$
+3. Next, we find the vector of $\vec {P_1P_2}$
+4. Last find the scalar of the projection of $\vec {P_1P_2}$ on the normal vector using
+$$\frac{\vec {P_1P_2}\cdot \vec n}{|\vec n|}$$
+
+### find distance between 2 parallel lines
+1. we first compute $\vec {P_1P_2}$
+2. directly find the scalar of projection of $\vec {P_1P_2}$ on $\vec m$
+$$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
