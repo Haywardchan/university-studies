@@ -121,3 +121,8 @@ $$\lim_{(x,y)\to (a,b)}\frac{|f(x,y)-f(a,b)-D_uf|}{||\Delta f||}$$
 ### find the shortest distance between a sphere and a point
 find centre 
 compute distance by minus radius
+
+
+
+https://www.math.hkust.edu.hk/~mamu/courses/2023/solns.pdf
+https://www.math.hkust.edu.hk/~mamu/courses/2023/probs.pdf
