@@ -117,3 +117,7 @@ the different value is caused by the discontinuity at certain point of the funct
 Using the definition:
 $$\lim_{(x,y)\to (a,b)}\frac{|f(x,y)-f(a,b)-D_uf|}{||\Delta f||}$$
 
+
+### find the shortest distance between a sphere and a point
+find centre 
+compute distance by minus radius
