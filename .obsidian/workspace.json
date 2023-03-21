@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 year 2/math2023/Typical question types.md",
+                "file": "2.2 year 2/comp3711/Master theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b9544a8aef9aab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2 year 2/comp3711/Counting Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77f7f4bafcc35410",
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/math2023/Typical question types.md",
+                "file": "2.2 year 2/comp3711/Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,13 +182,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae775c12d97efbf3",
+  "active": "0b9544a8aef9aab2",
   "lastOpenFiles": [
+    "2.2 year 2/comp3711/Notes by others.md",
+    "2.2 year 2/comp3711/Master theorem.md",
+    "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
     "Pasted image 20230318205237.png",
     "2.2 year 2/math2023/Cylinders and Quadratic Surfaces.md",
-    "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/comp3711/Quick Sort.md",
     "3. external libraries/Pasted image 20230317193752.png",
     "3. external libraries/Pasted image 20230317211652.png",
@@ -193,7 +207,6 @@
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "5. Internship",
-    "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp3711/Merge Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
     "4. Extra knowledge/github/Git Basics.md",
