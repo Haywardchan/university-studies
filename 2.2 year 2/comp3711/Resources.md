@@ -1,3 +1,4 @@
+https://course.cse.ust.hk/comp3711_2021F/Exams/pastpapers/3711_Exam_Library.html
 Lecture 1: Introduction
 
 Overview:
