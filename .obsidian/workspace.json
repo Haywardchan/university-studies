@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 year 2/comp2012H/C++ switch.md",
+                "file": "2.2 year 2/math2023/Typical question types.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/comp2012H/C++ switch.md",
+                "file": "2.2 year 2/math2023/Typical question types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,12 +184,13 @@
   },
   "active": "0b9544a8aef9aab2",
   "lastOpenFiles": [
+    "2.2 year 2/comp2012H/C++ switch.md",
+    "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/comp3711/Quick Sort.md",
     "2.2 year 2/comp3711/Resources.md",
     "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
-    "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
     "Pasted image 20230318205237.png",
@@ -220,7 +221,6 @@
     "2.1 year 1/comp1942/clustering/k-mean/forgetful k-mean clustering.md",
     "2.1 year 1/comp1942/clustering/k-mean/goodness of clustering result.md",
     "2.1 year 1/comp1942/clustering/k-mean/k-mean clustering.md",
-    "1. main/study path planning.md",
-    "2.2 year 2/comp2012H/C++ sorting.md"
+    "1. main/study path planning.md"
   ]
 }
