@@ -58,7 +58,7 @@ $$\frac{\vec {P_1P_2}\cdot \vec n}{|\vec n|}$$
 ### find distance between 2 parallel lines
 1. we first compute $\vec {P_1P_2}$
 2. directly find the scalar of projection of $\vec {P_1P_2}$ on $\vec m$
-$$\frac{\vec {P_1P_2}\cdot \vec m}{|\vec m|}$$
+$$\frac{\vec {P_1P_2}\times \vec m}{|\vec m|}$$
 
 ### find the closest points between 2 skewed lines
 1. find $\vec {P_1P_2}$ by parametric form in terms of s and t
