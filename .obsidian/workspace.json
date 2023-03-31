@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 year 1/comp1942/classification/Independent assumption.md",
+                "file": "2.2 year 2/math2023/Vector in 3d space and dot product.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 year 1/comp1942/classification/Independent assumption.md",
+                "file": "2.2 year 2/math2023/Vector in 3d space and dot product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +184,9 @@
   },
   "active": "0b9544a8aef9aab2",
   "lastOpenFiles": [
+    "2.2 year 2/math2023/Typical question types.md",
+    "2.2 year 2/math2023/Planes and lines in 3d space.md",
+    "2.1 year 1/comp1942/classification/Independent assumption.md",
     "2.1 year 1/comp1942/clustering/clustering.md",
     "2.1 year 1/comp1942/classification/classification.md",
     "2.1 year 1/comp1942/classification/Naive Bayes Classifier.md",
@@ -191,7 +194,6 @@
     "2.1 year 1/comp1942/classification/entropy.md",
     "2.1 year 1/comp1942/classification/decision tree.md",
     "2.1 year 1/comp1942/classification/decile-wise lift chart.md",
-    "2.1 year 1/comp1942/classification/Independent assumption.md",
     "2.1 year 1/comp1942/classification/lift chart.md",
     "2.1 year 1/comp1942/classification/Linear function_identity function.md",
     "2.1 year 1/comp1942/classification/measurement of the decision tree.md",
@@ -208,8 +210,6 @@
     "2.1 year 1/comp1942/classification/Conditional Probability.md",
     "2.1 year 1/comp1942/classification/CART.md",
     "2.1 year 1/comp1942/classification/C4.5.md",
-    "2.1 year 1/comp1942/classification/basic RNN.md",
-    "2.1 year 1/comp1942/classification/Bayes Rule.md",
     "Pasted image 20230331203439.png",
     "Pasted image 20230318205237.png",
     "3. external libraries/Pasted image 20230317193752.png",
