@@ -153,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.2 year 2/comp2211/lab2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +182,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec97328a9ea314d8",
+  "active": "0b9544a8aef9aab2",
   "lastOpenFiles": [
+    "Pasted image 20230331203439.png",
+    "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp2211/Notes.md",
     "2.2 year 2/comp2211/lab2.md",
     "2.2 year 2/comp3711/Resources.md",
     "2.2 year 2/comp3711/Randomized selection.md",
     "2.2 year 2/comp3711/Quick Sort.md",
     "2.2 year 2/comp3711/Merge Sort.md",
-    "2.2 year 2/comp3711/Master theorem.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Heap Sort.md",
     "2.2 year 2/comp3711/Counting Sort.md",
@@ -219,7 +221,6 @@
     "2.1 year 1/comp1942/Classification concept.md",
     "2.1 year 1/comp1942/clustering/hierarchical/agglomerative approach.md",
     "2.1 year 1/comp1942/clustering/k-mean/forgetful k-mean clustering.md",
-    "2.1 year 1/comp1942/clustering/k-mean/goodness of clustering result.md",
-    "2.1 year 1/comp1942/clustering/k-mean/k-mean clustering.md"
+    "2.1 year 1/comp1942/clustering/k-mean/goodness of clustering result.md"
   ]
 }
