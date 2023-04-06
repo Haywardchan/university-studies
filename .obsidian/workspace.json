@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "97ce37e011ee88cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b37e83803f049b1e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/math2023/Vector in 3d space and dot product.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,8 +194,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0b9544a8aef9aab2",
+  "active": "97ce37e011ee88cb",
   "lastOpenFiles": [
+    "Pasted image 20230406170121.png",
+    "Pasted image 20230406170107.png",
+    "2.2 year 2/math2023/Vector in 3d space and dot product.md",
+    "Untitled.md",
     "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.1 year 1/comp1942/classification/Independent assumption.md",
@@ -207,9 +223,6 @@
     "2.1 year 1/comp1942/classification/GRU.md",
     "2.1 year 1/comp1942/classification/confusion matrix.md",
     "2.1 year 1/comp1942/classification/conditionally independent.md",
-    "2.1 year 1/comp1942/classification/Conditional Probability.md",
-    "2.1 year 1/comp1942/classification/CART.md",
-    "2.1 year 1/comp1942/classification/C4.5.md",
     "Pasted image 20230331203439.png",
     "Pasted image 20230318205237.png",
     "3. external libraries/Pasted image 20230317193752.png",
@@ -219,7 +232,6 @@
     "3. external libraries/Pasted image 20230317205804.png",
     "3. external libraries/Pasted image 20230317205614.png",
     "3. external libraries/Pasted image 20230317193351.png",
-    "3. external libraries/Pasted image 20230317193330.png",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
