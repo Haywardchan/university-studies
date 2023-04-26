@@ -35,12 +35,8 @@
             "id": "97ce37e011ee88cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.2 year 2/comp3711/Counting Sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -165,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/comp3711/Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +191,25 @@
   },
   "active": "97ce37e011ee88cb",
   "lastOpenFiles": [
-    "2.2 year 2/comp3711/Linear Sort.md",
+    "2.2 year 2/math2411/Ch2_math2411_Probability.md",
+    "2.2 year 2/math2411/Ch0_math2411_introduction.md",
+    "3. external libraries/Pasted image 20220416201028.png",
+    "3. external libraries/dendrogram.png",
+    "3. external libraries/Pasted image 20220416200644.png",
+    "4. Extra knowledge/github/Git Basics.md",
+    "4. Extra knowledge/finance/technical analysis.md",
+    "4. Extra knowledge/cs50/relational database.md",
+    "4. Extra knowledge/cs50/csv.md",
+    "4. Extra knowledge/cs50/CS50.md",
+    "Pasted image 20230406170121.png",
+    "Pasted image 20230407012729.png",
     "2.2 year 2/comp3711/Counting Sort.md",
+    "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Heap Sort.md",
     "Untitled.md",
     "Pasted image 20230407013027.png",
     "Pasted image 20230407012944.png",
     "Pasted image 20230407012817.png",
-    "Pasted image 20230407012729.png",
-    "Pasted image 20230406170121.png",
     "Pasted image 20230406170107.png",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
     "2.2 year 2/math2023/Typical question types.md",
@@ -221,17 +226,7 @@
     "2.1 year 1/comp1942/classification/Linear function_identity function.md",
     "2.1 year 1/comp1942/classification/measurement of the decision tree.md",
     "2.1 year 1/comp1942/classification/multi-layer perceptron.md",
-    "2.1 year 1/comp1942/classification/traditional LSTM.md",
-    "2.1 year 1/comp1942/classification/Threshold function_step function_Hard limiter.md",
-    "2.1 year 1/comp1942/classification/tanh function.md",
-    "2.1 year 1/comp1942/classification/SVM.md",
-    "2.1 year 1/comp1942/classification/neural network.md",
-    "2.1 year 1/comp1942/classification/ID3.md",
-    "2.1 year 1/comp1942/classification/GRU.md",
     "Pasted image 20230331203439.png",
-    "Pasted image 20230318205237.png",
-    "3. external libraries/Pasted image 20230317193752.png",
-    "3. external libraries/Pasted image 20230317211652.png",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
