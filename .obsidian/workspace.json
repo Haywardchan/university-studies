@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "5fd84146863b6cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Internship/Working hours.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b37e83803f049b1e",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Extra knowledge/github/Git Basics.md",
+                "file": "5. Internship/Working hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,14 +206,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "97ce37e011ee88cb",
+  "active": "5fd84146863b6cb7",
   "lastOpenFiles": [
+    "4. Extra knowledge/github/Git Basics.md",
+    "5. Internship/Working hours.md",
     "2.2 year 2/math2411/Ch2_math2411_Probability.md",
     "2.2 year 2/math2411/Ch0_math2411_introduction.md",
     "3. external libraries/Pasted image 20220416201028.png",
     "3. external libraries/dendrogram.png",
     "3. external libraries/Pasted image 20220416200644.png",
-    "4. Extra knowledge/github/Git Basics.md",
     "4. Extra knowledge/finance/technical analysis.md",
     "4. Extra knowledge/cs50/relational database.md",
     "4. Extra knowledge/cs50/csv.md",
@@ -230,7 +243,6 @@
     "2.1 year 1/comp1942/classification/lift chart.md",
     "2.1 year 1/comp1942/classification/Linear function_identity function.md",
     "2.1 year 1/comp1942/classification/measurement of the decision tree.md",
-    "2.1 year 1/comp1942/classification/multi-layer perceptron.md",
     "Pasted image 20230331203439.png",
     "5. Internship",
     "2.2 year 2/comp3711"
