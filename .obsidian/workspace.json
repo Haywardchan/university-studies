@@ -35,8 +35,12 @@
             "id": "97ce37e011ee88cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Extra knowledge/github/Git Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -161,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Extra knowledge/github/Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
