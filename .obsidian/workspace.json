@@ -47,11 +47,31 @@
             "id": "5fd84146863b6cb7",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "3. external libraries/Pasted image 20230331203439.png"
+              }
+            }
+          },
+          {
+            "id": "3ab03167c916da2e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Internship/Working hours.md",
+                "file": "3. external libraries/Untitled.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "79a61c1a600b0217",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3. external libraries/Pasted image 20230331203439.png"
               }
             }
           },
@@ -68,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Internship/Working hours.md",
+                "file": "3. external libraries/Pasted image 20230331203439.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +226,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5fd84146863b6cb7",
+  "active": "ec97328a9ea314d8",
   "lastOpenFiles": [
-    "4. Extra knowledge/github/Git Basics.md",
+    "3. external libraries/Untitled.md",
+    "3. external libraries/Pasted image 20230331203439.png",
+    "3. external libraries/Pasted image 20230406170121.png",
+    "3. external libraries/Pasted image 20230406170107.png",
     "5. Internship/Working hours.md",
+    "4. Extra knowledge/github/Git Basics.md",
     "2.2 year 2/math2411/Ch2_math2411_Probability.md",
     "2.2 year 2/math2411/Ch0_math2411_introduction.md",
     "3. external libraries/Pasted image 20220416201028.png",
@@ -219,16 +243,13 @@
     "4. Extra knowledge/cs50/relational database.md",
     "4. Extra knowledge/cs50/csv.md",
     "4. Extra knowledge/cs50/CS50.md",
-    "Pasted image 20230406170121.png",
-    "Pasted image 20230407012729.png",
+    "3. external libraries/Pasted image 20230407012729.png",
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Heap Sort.md",
-    "Untitled.md",
-    "Pasted image 20230407013027.png",
-    "Pasted image 20230407012944.png",
-    "Pasted image 20230407012817.png",
-    "Pasted image 20230406170107.png",
+    "3. external libraries/Pasted image 20230407013027.png",
+    "3. external libraries/Pasted image 20230407012944.png",
+    "3. external libraries/Pasted image 20230407012817.png",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
     "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
@@ -242,8 +263,6 @@
     "2.1 year 1/comp1942/classification/decile-wise lift chart.md",
     "2.1 year 1/comp1942/classification/lift chart.md",
     "2.1 year 1/comp1942/classification/Linear function_identity function.md",
-    "2.1 year 1/comp1942/classification/measurement of the decision tree.md",
-    "Pasted image 20230331203439.png",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
