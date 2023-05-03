@@ -10,3 +10,5 @@ What are the phone numbers for the health food restaurants in the dataset?
 How are the health food restaurants rated? How many smiley faces, OK faces, and sad faces do they have?
 Which districts do the health food restaurants belong to?
 plot regions to counts
+plot piechart for regions to counts
+plot piechart for the number of restaurant for openrice vegetarian, google map, and openRice impossible food
