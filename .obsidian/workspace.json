@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "976083abe3445217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Internship/Impossible food successful prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/comp3711/Master theorem.md",
+                "file": "5. Internship/Impossible food successful prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,8 +238,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec97328a9ea314d8",
+  "active": "976083abe3445217",
   "lastOpenFiles": [
+    "2.2 year 2/comp3711/Master theorem.md",
+    "5. Internship/Impossible food successful prompt.md",
     "3. external libraries/Untitled.md",
     "3. external libraries/Pasted image 20230331203439.png",
     "3. external libraries/Pasted image 20230406170121.png",
@@ -262,7 +276,6 @@
     "2.1 year 1/comp1942/classification/decision tree.md",
     "2.1 year 1/comp1942/classification/decile-wise lift chart.md",
     "2.1 year 1/comp1942/classification/lift chart.md",
-    "2.1 year 1/comp1942/classification/Linear function_identity function.md",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
