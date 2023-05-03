@@ -12,3 +12,11 @@ Which districts do the health food restaurants belong to?
 plot regions to counts
 plot piechart for regions to counts
 plot piechart for the number of restaurant for openrice vegetarian, google map, and openRice impossible food
+give me the English name of a restaurant which has most bookmarks, and show the number of which
+give me the OpenRice link of a restaurant in Causeway bay
+find the list of region
+What is the common price range of restaurants
+What is the average price range of restaurants
+What is the median of the rating of the restaurants
+What is the lowest rating among restaurants
+Introduce one restaurant from Hong Kong Island
