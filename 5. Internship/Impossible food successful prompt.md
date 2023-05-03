@@ -1,8 +1,5 @@
 
 What categories do the vegetarian restaurants that serve Impossible Foods fall under?
-Where are the vegetarian restaurants that serve Impossible Foods located? Can you give me their addresses?
-What is the overall rating for each of the vegetarian restaurants that serve Impossible Foods?
-How many bookmarks do each of the vegetarian restaurants that serve Impossible Foods have?
 How many health food restaurants are in the dataset?
 Where are the health food restaurants located? Can you give me their addresses?
 Can you tell me which regions the health food restaurants are located in?
@@ -20,3 +17,4 @@ What is the average price range of restaurants
 What is the median of the rating of the restaurants
 What is the lowest rating among restaurants
 Introduce one restaurant from Hong Kong Island
+s3://chatmonday/Restaurants and product list for vegetarian food (Impossible Foods).xlsx
