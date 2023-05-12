@@ -98,19 +98,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58845b33cc587247",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Internship/Impossible food successful prompt.md",
+                "file": "2.2 year 2/math2023/Typical question types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,10 +246,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58845b33cc587247",
+  "active": "b37e83803f049b1e",
   "lastOpenFiles": [
-    "2.2 year 2/comp3711/Master theorem.md",
+    "2.2 year 2/math2023/Vector in 3d space and dot product.md",
+    "2.2 year 2/math2023/Typical question types.md",
     "5. Internship/Impossible food successful prompt.md",
+    "2.2 year 2/comp3711/Master theorem.md",
     "3. external libraries/Untitled.md",
     "3. external libraries/Pasted image 20230331203439.png",
     "3. external libraries/Pasted image 20230406170121.png",
@@ -282,8 +274,6 @@
     "3. external libraries/Pasted image 20230407013027.png",
     "3. external libraries/Pasted image 20230407012944.png",
     "3. external libraries/Pasted image 20230407012817.png",
-    "2.2 year 2/math2023/Vector in 3d space and dot product.md",
-    "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.1 year 1/comp1942/classification/Independent assumption.md",
     "2.1 year 1/comp1942/clustering/clustering.md",
