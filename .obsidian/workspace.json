@@ -98,9 +98,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58845b33cc587247",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,6 +146,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "db17421808d9b421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -238,7 +256,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "976083abe3445217",
+  "active": "58845b33cc587247",
   "lastOpenFiles": [
     "2.2 year 2/comp3711/Master theorem.md",
     "5. Internship/Impossible food successful prompt.md",
