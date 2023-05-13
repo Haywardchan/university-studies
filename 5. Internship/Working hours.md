@@ -8,3 +8,19 @@
 8+9+5+8+3+8+4=45 hours
 45 $\times$ 50 = 2250
 May
+
+
+Dear Hiring Manager,  
+  
+  
+I am writing to express my strong interest in the Quantitative  
+Developer Intern position at Daksh Trading, which I found on the HKUST  
+job board. Below, I have attached my resume and university transcript  
+and I would be grateful if you could consider my application.  
+  
+Thank you in advance and I look forward to further replies.  
+  
+  
+Sincerely,  
+  
+Chan Ming Hei
