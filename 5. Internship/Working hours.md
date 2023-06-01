@@ -8,6 +8,11 @@
 8+9+5+8+3+8+4=45 hours
 45 $\times$ 50 = 2250
 May
+10/5 Beyond Expo 9am-6:30pm[9.5]
+14/5 WFH 2-5pm[3]
+24/5 Office 10am-7pm[9]
+25/5 WFH 2pm-6pm[4]
+30/5/2023 WFH 9pm-11pm[2]
 
 
 Dear Hiring Manager,  
