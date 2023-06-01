@@ -7,15 +7,17 @@
 30/4/2023 4 hours of WFH 2:30pm-6:30pm[4 hours]
 8+9+5+8+3+8+4=45 hours
 45 $\times$ 50 = 2250
+
 May
 3/5 Office 10am-6pm [8 hours]
-7/5
+7-8/5 WFH [3 hours ]
 10/5 Beyond Expo 9am-6:30pm[9.5 hours]
 14/5 WFH 2-5pm[3 hours]
 24/5 Office 10am-7pm[9 hours]
 25/5 WFH 2pm-6pm[4 hours]
 30/5/2023 WFH 9pm-11pm[2 hours]
-1/6/2023 WFH 11am-3pm, 5pm-6pm[5 hours]
+8+3+9.5+3+9+4+2=38.5 hours
+38.5 x 50 = 1925
 
 Dear Hiring Manager,  
   
