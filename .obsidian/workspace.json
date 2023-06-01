@@ -88,6 +88,18 @@
             }
           },
           {
+            "id": "94e42b3db1260cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Internship/Impossible food successful prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "976083abe3445217",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 year 2/comp3711/Master theorem.md",
+                "file": "5. Internship/Impossible food successful prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,14 +258,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b37e83803f049b1e",
+  "active": "94e42b3db1260cb8",
   "lastOpenFiles": [
+    "5. Internship/Working hours.md",
     "2.2 year 2/comp3711/Heap Sort.md",
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
     "2.2 year 2/comp2211/lab2.md",
-    "5. Internship/Working hours.md",
     "5. Internship/Impossible food successful prompt.md",
     "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
