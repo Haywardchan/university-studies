@@ -127,9 +127,11 @@
             "id": "54fc692f2aa4f39e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "5. Internship/Working hours.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -197,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "77f7f4bafcc35410",
@@ -263,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Extra knowledge/github/Git Basics.md",
+                "file": "5. Internship/Working hours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,6 +296,7 @@
   },
   "active": "54fc692f2aa4f39e",
   "lastOpenFiles": [
+    "Pasted image 20230630113435.png",
     "5. Internship/Working hours.md",
     "2.2 year 2/comp3711/Heap Sort.md",
     "2.2 year 2/comp3711/Counting Sort.md",
@@ -329,7 +332,6 @@
     "2.1 year 1/comp1942/classification/Naive Bayes Classifier.md",
     "2.1 year 1/comp1942/classification/error report.md",
     "2.1 year 1/comp1942/classification/entropy.md",
-    "2.1 year 1/comp1942/classification/decision tree.md",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]

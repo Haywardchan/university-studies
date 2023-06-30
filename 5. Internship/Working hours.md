@@ -33,3 +33,19 @@ Thank you in advance and I look forward to further replies.
 Sincerely,  
   
 Chan Ming Hei
+
+
+June 1-18
+1/6/2023 WFH 11am-3pm, 5pm-6pm [5 hours]
+5/6/2023 Office 10am-6pm [8 hours]
+6/6/2023 Office 10am-6:30pm [8.5 hours]
+7/6/2023 WFH 10:30am-6pm [7.5 hours]
+8/6/2023 WFH 11am-7pm [8 hours]
+9/6/2023 WFH 11am-6pm [7 hours]
+12/6/2023 WFH 11am-6pm [7 hours]
+13/6/2023 Office 10am-6pm [8 hours]
+14/6/2023 WFH 10am-6pm [8 hours]
+15/6/2023 WFH 10am-6pm [8 hours]
+16/6/2023 Office 10am-6pm [8 hours]
+5+8+8.5+7.5+8+7+7+8+8+8+8=83 hours
+83 x 50 = $4150
