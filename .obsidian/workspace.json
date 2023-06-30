@@ -124,6 +124,16 @@
             }
           },
           {
+            "id": "54fc692f2aa4f39e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "976083abe3445217",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -282,7 +292,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "08e7de0425527f95",
+  "active": "54fc692f2aa4f39e",
   "lastOpenFiles": [
     "5. Internship/Working hours.md",
     "2.2 year 2/comp3711/Heap Sort.md",
