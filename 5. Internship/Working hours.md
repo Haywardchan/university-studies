@@ -48,7 +48,7 @@ June 1-18
 15/6/2023 WFH 10am-6pm [8 hours]
 16/6/2023 Office 10am-6pm [8 hours]
 5+8+8.5+7.5+8+7+7+8+8+8+8=83 hours
-83 x 50 = $4150
+84 x 50 = $4200
 
 19/6/2023 WFH 10am-7pm [9 hours]
 20/6/2023 Office 9:30am-6:30pm [9 hours]
@@ -63,6 +63,6 @@ June 1-18
 3/7/2023 WFH 10am-6pm [8 hours]
 4/7/2023 Office 10am-6pm [8 hours]
 9\* 8+8\* 2+10= 98 hours
-5/7/2023 WFH 9am-5pm [8 hours]
+5/7/2023 WFH 9am-7pm [10 hours]
 6/7/2023 AWS Event 8am-6pm [10 hours]
 7/7/2023 WFH 9am-6pm [9 hours]
