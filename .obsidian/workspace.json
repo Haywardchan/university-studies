@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Internship/Impossible food successful prompt.md",
+                "file": "4. Extra knowledge/docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Internship/Impossible food successful prompt.md",
+                "file": "4. Extra knowledge/docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,6 +280,9 @@
   },
   "active": "976083abe3445217",
   "lastOpenFiles": [
+    "5. Internship/Impossible food successful prompt.md",
+    "4. Extra knowledge/docker/Docker.md",
+    "4. Extra knowledge/docker",
     "2.2 year 2/comp3711/Master theorem.md",
     "2.1 year 1/comp1942/classification/Rectifier function_Retified Linear Unit_ReLU.md",
     "2.1 year 1/comp1942/classification/conditionally independent.md",
@@ -295,7 +298,6 @@
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
-    "5. Internship/Impossible food successful prompt.md",
     "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
     "3. external libraries/Untitled.md",
@@ -316,7 +318,6 @@
     "3. external libraries/Pasted image 20230407012944.png",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.1 year 1/comp1942/classification/Independent assumption.md",
-    "2.1 year 1/comp1942/clustering/clustering.md",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
