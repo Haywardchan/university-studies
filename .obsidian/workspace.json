@@ -115,24 +115,8 @@
             "id": "08e7de0425527f95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Extra knowledge/github/Git Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54fc692f2aa4f39e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Internship/Working hours.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           },
           {
@@ -199,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 239.50152587890625
   },
   "right": {
     "id": "77f7f4bafcc35410",
@@ -265,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Internship/Working hours.md",
+                "file": "5. Internship/Impossible food successful prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,24 +278,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "54fc692f2aa4f39e",
+  "active": "976083abe3445217",
   "lastOpenFiles": [
-    "Pasted image 20230630113435.png",
+    "2.2 year 2/comp3711/Master theorem.md",
+    "2.1 year 1/comp1942/classification/Rectifier function_Retified Linear Unit_ReLU.md",
+    "2.1 year 1/comp1942/classification/conditionally independent.md",
+    "4. Extra knowledge/github/Git Basics.md",
+    "Untitled.canvas",
+    "2.2 year 2/comp2711/Ch2 Predicate Logic.md",
+    "2.2 year 2/comp2711/comp2711.md",
+    "2.2 year 2/comp2711/Ch1 Propositional Logic.md",
+    "2.2 year 2/comp2211/lab2.md",
     "5. Internship/Working hours.md",
+    "Pasted image 20230630113435.png",
     "2.2 year 2/comp3711/Heap Sort.md",
     "2.2 year 2/comp3711/Counting Sort.md",
     "2.2 year 2/comp3711/Linear Sort.md",
     "2.2 year 2/comp3711/Algorithmic engineering.md",
-    "2.2 year 2/comp2211/lab2.md",
     "5. Internship/Impossible food successful prompt.md",
     "2.2 year 2/math2023/Typical question types.md",
     "2.2 year 2/math2023/Vector in 3d space and dot product.md",
-    "2.2 year 2/comp3711/Master theorem.md",
     "3. external libraries/Untitled.md",
     "3. external libraries/Pasted image 20230331203439.png",
     "3. external libraries/Pasted image 20230406170121.png",
     "3. external libraries/Pasted image 20230406170107.png",
-    "4. Extra knowledge/github/Git Basics.md",
     "2.2 year 2/math2411/Ch2_math2411_Probability.md",
     "2.2 year 2/math2411/Ch0_math2411_introduction.md",
     "3. external libraries/Pasted image 20220416201028.png",
@@ -324,14 +314,9 @@
     "3. external libraries/Pasted image 20230407012729.png",
     "3. external libraries/Pasted image 20230407013027.png",
     "3. external libraries/Pasted image 20230407012944.png",
-    "3. external libraries/Pasted image 20230407012817.png",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.1 year 1/comp1942/classification/Independent assumption.md",
     "2.1 year 1/comp1942/clustering/clustering.md",
-    "2.1 year 1/comp1942/classification/classification.md",
-    "2.1 year 1/comp1942/classification/Naive Bayes Classifier.md",
-    "2.1 year 1/comp1942/classification/error report.md",
-    "2.1 year 1/comp1942/classification/entropy.md",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
