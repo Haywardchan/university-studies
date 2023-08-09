@@ -35,7 +35,9 @@ git push origin main
 git branch -M main
 git remote add origin https://github.com/Haywardchan/Finance.git
 git push -u origin main
-
+git format-patch -2 --stdout > multi_commit.patch
+git format-patch -1 HEAD
+git add remote upstream <url>
 # Git Basics
 This document aims to provide the reader with a sense of how the git version control system works and provide a simple, hands-on demonstration. Git is complex and this tutorial only demonstrates the basic essentials.
 
