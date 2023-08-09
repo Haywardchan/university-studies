@@ -135,9 +135,11 @@
             "id": "d195b59accf39d12",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "4. Extra knowledge/github/Git Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
