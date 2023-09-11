@@ -130,9 +130,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04e88c3fbc4421d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -278,7 +288,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "976083abe3445217",
+  "active": "04e88c3fbc4421d6",
   "lastOpenFiles": [
     "2.2 year 2/comp3711/Master theorem.md",
     "Pasted image 20230630113435.png",
