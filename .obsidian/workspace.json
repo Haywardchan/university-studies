@@ -142,9 +142,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ae863e8caabebaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Extra knowledge/github/Git Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -229,6 +241,16 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "3ca16aa5355330e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -261,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Extra knowledge/docker/Docker.md",
+                "file": "4. Extra knowledge/github/Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +312,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "04e88c3fbc4421d6",
+  "active": "3ae863e8caabebaf",
   "lastOpenFiles": [
     "5. Internship/Impossible food successful prompt.md",
     "5. Internship/Working hours.md",
