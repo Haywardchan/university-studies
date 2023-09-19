@@ -154,9 +154,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac8123b44971f60c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -312,7 +322,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ae863e8caabebaf",
+  "active": "ac8123b44971f60c",
   "lastOpenFiles": [
     "4. Extra knowledge/github/Git Basics.md",
     "2.3 year 3/Phys1003.md",
