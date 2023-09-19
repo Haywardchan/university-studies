@@ -159,9 +159,11 @@
             "id": "ac8123b44971f60c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "2.3 year 3/Phys1003.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -324,6 +326,11 @@
   },
   "active": "ac8123b44971f60c",
   "lastOpenFiles": [
+    "Pasted image 20230919225712.png",
+    "Pasted image 20230919225658.png",
+    "Pasted image 20230919225648.png",
+    "Pasted image 20230919225637.png",
+    "equation_images",
     "4. Extra knowledge/github/Git Basics.md",
     "2.3 year 3/Phys1003.md",
     "2.3 year 3",
@@ -359,10 +366,6 @@
     "4. Extra knowledge/finance/technical analysis.md",
     "4. Extra knowledge/cs50/relational database.md",
     "4. Extra knowledge/cs50/csv.md",
-    "4. Extra knowledge/cs50/CS50.md",
-    "3. external libraries/Pasted image 20230407012729.png",
-    "3. external libraries/Pasted image 20230407013027.png",
-    "3. external libraries/Pasted image 20230407012944.png",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
