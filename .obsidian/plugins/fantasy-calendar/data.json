@@ -188,9 +188,9 @@
         "offset": 0
       },
       "current": {
-        "year": 2023,
-        "month": 11,
-        "day": 28
+        "year": 2024,
+        "month": 0,
+        "day": 1
       },
       "events": [
         {
@@ -474,7 +474,7 @@
           "color": "#0288D1"
         }
       ],
-      "date": 1696341449120
+      "date": 1696517203647
     }
   ],
   "configDirectory": null,
