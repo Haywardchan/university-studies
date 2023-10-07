@@ -178,9 +178,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c14b5bab067238c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "equation_images/Pasted image 20230919225637.png"
+              }
+            }
+          },
+          {
+            "id": "26bc9ea2dfd3eb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worship/Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -307,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 year 3/Phys1003.md",
+                "file": "Worship/Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,18 +358,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50778659165d65bb",
+  "active": "26bc9ea2dfd3eb45",
   "lastOpenFiles": [
-    "Pasted image 20231003215732.png",
-    "Pasted image 20230921192335.png",
-    "Pasted image 20230921192322.png",
-    "Pasted image 20230919225712.png",
-    "Pasted image 20230919225658.png",
-    "Pasted image 20230919225648.png",
-    "Pasted image 20230919225637.png",
+    "equation_images/Pasted image 20231003215732.png",
+    "Worship/Flow.md",
+    "Worship",
+    "equation_images/Pasted image 20230919225637.png",
+    "2.3 year 3/Phys1003.md",
+    "equation_images/Pasted image 20230921192335.png",
+    "equation_images/Pasted image 20230921192322.png",
+    "equation_images/Pasted image 20230919225712.png",
+    "equation_images/Pasted image 20230919225658.png",
+    "equation_images/Pasted image 20230919225648.png",
     "equation_images",
     "4. Extra knowledge/github/Git Basics.md",
-    "2.3 year 3/Phys1003.md",
     "2.3 year 3",
     "5. Internship/Impossible food successful prompt.md",
     "5. Internship/Working hours.md",
@@ -372,12 +396,10 @@
     "3. external libraries/Untitled.md",
     "3. external libraries/Pasted image 20230331203439.png",
     "3. external libraries/Pasted image 20230406170121.png",
-    "3. external libraries/Pasted image 20230406170107.png",
     "2.2 year 2/math2411/Ch2_math2411_Probability.md",
     "2.2 year 2/math2411/Ch0_math2411_introduction.md",
     "4. Extra knowledge/finance/technical analysis.md",
     "4. Extra knowledge/cs50/relational database.md",
-    "4. Extra knowledge/cs50/csv.md",
     "5. Internship",
     "2.2 year 2/comp3711"
   ]
