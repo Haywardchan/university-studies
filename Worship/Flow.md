@@ -75,3 +75,26 @@ def updated(path: Path[K], payload: V): Tree[K, V] =
                   Node(key, children :+ Node(xs.head, Nil).updated(Path(xs.tail), payload))}
 
         case Leaf(key, payload) => Leaf(key, payload)//updates cover in case Node
+
+
+
+
+```
+def apply[K, V](path: Path[K], payload: V): Tree[K, V] = path match
+
+    case Path(Nil) => throw IllegalPathException
+
+    case _ =>
+
+      def listToNode[K](list: List[K]): Tree[K, V] = {
+
+        list.foldRight[Tree[K, V]](Leaf(list.last, payload)) {
+
+          case (item, acc) => Node(item, List(acc))
+
+        }
+
+      }
+
+      listToNode(path.segs)
+```
