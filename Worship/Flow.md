@@ -27,3 +27,51 @@ trait TreeComp:
   def apply[K, V](path: Path[K], payload: V): Tree[K, V]
   case class Path[K](segs: List[K])
   object IllegalPathException extends java.lang.Exception
+
+
+
+
+
+def updated(path: Path[K], payload: V): Tree[K, V] =
+
+    if path.segs.isEmpty || path.segs.head!=this.key
+
+    then throw Tree.IllegalPathException
+
+    else
+
+      this match
+
+        case Node(key, children) => path.segs match
+
+          case x::Nil =>
+
+            //drop the children with same key no matter is leaf or node
+
+            val updatedchild = children.dropWhile(x==_.key):+Leaf(key, payload)
+
+            Node(key, updatedchild)
+
+          case xs =>
+
+            if xs.head!=key then
+
+              val updatedchild = children :+ Node(xs.head, Nil).updated(Path(xs.tail), payload)
+
+              Node(key, updatedchild)
+
+            else
+
+              children.find(_.key == xs.head) match {
+
+                case Some(child) =>
+
+                  val updatedChild = child.updated(Path(xs.tail), payload)
+
+                  Node(key, children.map(c => if (c.key == xs.head) updatedChild else c))
+
+                case None =>
+
+                  Node(key, children :+ Node(xs.head, Nil).updated(Path(xs.tail), payload))}
+
+        case Leaf(key, payload) => Leaf(key, payload)//updates cover in case Node
