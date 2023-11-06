@@ -189,8 +189,8 @@
       },
       "current": {
         "year": 2024,
-        "month": 0,
-        "day": 24
+        "month": 1,
+        "day": 7
       },
       "events": [
         {
@@ -474,7 +474,7 @@
           "color": "#0288D1"
         }
       ],
-      "date": 1698166912504
+      "date": 1699271867812
     }
   ],
   "configDirectory": null,
