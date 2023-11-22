@@ -200,21 +200,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8fa44cc07a86f148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3 year 3/Phys1003.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -370,7 +358,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8fa44cc07a86f148",
+  "active": "26bc9ea2dfd3eb45",
   "lastOpenFiles": [
     "Worship/Flow.md",
     "equation_images/Pasted image 20231003215732.png",
