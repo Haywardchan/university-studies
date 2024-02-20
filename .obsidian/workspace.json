@@ -142,9 +142,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1036317b6e51be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3 year 3/huma2635.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -300,7 +314,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "04e88c3fbc4421d6",
+  "active": "b1036317b6e51be3",
   "lastOpenFiles": [
     "2.3 year 3/Phys1003.md",
     "4. Extra knowledge/docker/Docker.md",
