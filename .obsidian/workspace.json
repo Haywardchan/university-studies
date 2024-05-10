@@ -164,9 +164,29 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "bc1fbc0f2e9bd8ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "d6a37f6b13045bc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -324,7 +344,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9613c1c59dc105ed",
+  "active": "d6a37f6b13045bc7",
   "lastOpenFiles": [
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
     "2.2 year 2/math2023/Typical question types.md",
