@@ -179,9 +179,11 @@
             "id": "d6a37f6b13045bc7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "4. Extra knowledge/github/Git Basics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -315,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 year 3/huma2635.md",
+                "file": "4. Extra knowledge/github/Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
