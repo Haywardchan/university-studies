@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8645f19f1a24add5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App development/React Native.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -317,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 year 3/Comp4221.md",
+                "file": "App development/React Native.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,12 +358,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d6a37f6b13045bc7",
+  "active": "8645f19f1a24add5",
   "lastOpenFiles": [
+    "2.3 year 3/Comp4221.md",
+    "App development/React Native.md",
+    "Untitled",
+    "App development",
     "1. main/task manager.md",
     "1. main/study path planning.md",
     "1. main/board.md",
-    "2.3 year 3/Comp4221.md",
     "2.3 year 3/huma2635.md",
     "4. Extra knowledge/github/Git Basics.md",
     "2.2 year 2/math2023/Planes and lines in 3d space.md",
@@ -386,7 +401,6 @@
     "2.1 year 1/comp1942/classification/Rectifier function_Retified Linear Unit_ReLU.md",
     "2.1 year 1/comp1942/classification/conditionally independent.md",
     "2.2 year 2/comp2711/Ch2 Predicate Logic.md",
-    "2.2 year 2/comp2711/comp2711.md",
     "3. external libraries/Pasted image 20230331203439.png",
     "3. external libraries/Pasted image 20230406170121.png",
     "5. Internship",
